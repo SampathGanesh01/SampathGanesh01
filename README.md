@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Any technical projects in IOT,A.I and Autonomous Vehicles**
 
-- 👨‍💻 All of my projects are available at [https://sampathganesh01.github.io](https://sampathganesh01.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/SampathGanesh01](https://github.com/SampathGanesh01)
 
 - 💬 Ask me about **Python,IOT,Autonomous vehicles**
 
