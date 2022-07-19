@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Really Cool projects**
 
-- 👯 I’m looking to collaborate on **Any technical projects in IOT,A.I and Autonomous Vehicles**
+- 👯 I’m looking to collaborate on **Any technical projects in Computer vision,ROS and Robotics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SampathGanesh01](https://github.com/SampathGanesh01)
 
-- 💬 Ask me about **Python,IOT,Autonomous vehicles**
+- 💬 Ask me about **Python,A.I and Robotics**
 
-- 📫 How to reach me **sampathganesh01@gmail.com**
+- 📫 reach me on **sampathganesh01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
