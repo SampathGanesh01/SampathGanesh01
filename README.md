@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sampath01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampath01" height="30" width="40" /></a>
 <a href="https://fb.com/sampath1414196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sampath1414196" height="30" width="40" /></a>
-<a href="https://instagram.com/sampath_infinity_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampath_infinity_1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sampath_kandregula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampath_infinity_1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
