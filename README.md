@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampath Ganesh Kandregula</h1>
-<h3 align="center">A passionate Mechatronics Engineering student who want to make the world autonomous from India</h3>
+<h3 align="center">A passionate Mechatronics Engineering student who is trying to learn Everything </h3>
 
 - 🔭 I’m currently working on **Really Cool projects**
 
