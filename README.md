@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sampath Ganesh Kandregula</h1>
 <h3 align="center">A passionate engineer exploring and learning things from scratch </h3>
 
-- 🔭 I’m currently working on **Really Cool projects**
+- 🔭 I’m currently working on **Autonomous systems and disablity tech**
 
 - 👯 I’m looking to collaborate on **Any technical projects in Computer vision,ROS and Robotics**
 
